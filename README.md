@@ -166,6 +166,3 @@ The dashboard is developed using Python, Pandas, Streamlit, and Plotly.
 Deployment and the live dashboard link can be added to this README after
 deployment.
 
-## Live Dashboard
-
-**Coming soon --- live Streamlit deployment link will be added here.**
