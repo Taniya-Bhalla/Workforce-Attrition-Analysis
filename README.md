@@ -166,3 +166,6 @@ The dashboard is developed using Python, Pandas, Streamlit, and Plotly.
 Deployment and the live dashboard link can be added to this README after
 deployment.
 
+## Live Dashboard
+
+🚀 **[View Live Dashboard]-https://taniya-workforce-attrition.streamlit.app/
