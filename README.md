@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project presents an interactive HR analytics dashboard developed to
-analyze employee attrition patterns and identify workforce risk hotspots
+analyze employee attrition patterns and identify workforce risk hotspot
 at Palo Alto Networks.
 
 The dashboard transforms employee HR data into interactive visual
